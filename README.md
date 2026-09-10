@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=A56CC1&center=true&vCenter=true&width=850&lines=_PROGRAMANDO_;Ingeniera+en+Inform%C3%A1tica;QA+Analyst+%7C+Automation;Cloud+Computing+%7C+AWS;Software+con+calidad+y+prop%C3%B3sito+%E2%9C%A8" alt="Presentación animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=A56CC1&center=true&vCenter=true&width=850&lines=_TECNOLOG%C3%8DA_CON_PROP%C3%93SITO_;Ingeniera+en+Inform%C3%A1tica;QA+Analyst+%7C+Automation;Cloud+Computing+%7C+AWS;Software+con+calidad+y+prop%C3%B3sito+%E2%9C%A8" alt="Presentación animada" />
 
 # Hola, soy Bernardita Muñoz Leiva 👋
 
@@ -40,16 +40,11 @@ automatización de procesos, desarrollo de software y tecnologías Cloud.
   <img src="https://skillicons.dev/icons?i=selenium,postman" alt="Selenium y Postman" />
 </p>
 
-- Pruebas funcionales
-- Pruebas unitarias
-- Casos de prueba
+- Pruebas funcionales y de API
+- Diseño y ejecución de casos de prueba
 - Reporte y seguimiento de bugs
-- Recertificación de incidencias
-- Pruebas de API
-- Selenium
-- Postman
-- Jira
-- Burp Suite
+- Selenium y Postman
+- Jira y Burp Suite
 
 </td>
 <td width="25%" valign="top">
@@ -62,12 +57,9 @@ automatización de procesos, desarrollo de software y tecnologías Cloud.
 
 - Python
 - JavaScript
-- HTML5
-- CSS3
+- HTML5 y CSS3
 - Node.js
 - APIs REST
-- Análisis de código
-- Programación orientada a objetos
 
 </td>
 <td width="25%" valign="top">
@@ -79,13 +71,10 @@ automatización de procesos, desarrollo de software y tecnologías Cloud.
 </p>
 
 - Amazon Web Services
-- Cloud Computing
-- Linux
-- Redes y seguridad
+- Linux, redes y seguridad
 - Scripting
-- Power Automate
-- Microsoft Dynamics 365
-- CI/CD
+- Power Automate y Dynamics 365
+- CI/CD con GitHub Actions
 
 </td>
 <td width="25%" valign="top">
@@ -96,14 +85,11 @@ automatización de procesos, desarrollo de software y tecnologías Cloud.
   <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vscode" alt="PostgreSQL, Supabase, Git, GitHub y VS Code" />
 </p>
 
-- SQL
-- PostgreSQL
+- SQL y PostgreSQL
 - Supabase
-- Power BI
 - Git y GitHub
-- Visual Studio Code
-- Excel
-- Scrum
+- Power BI
+- Scrum y Visual Studio Code
 
 </td>
 </tr>
