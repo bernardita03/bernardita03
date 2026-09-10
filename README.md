@@ -174,7 +174,7 @@ Formación en desarrollo de software, bases de datos, análisis de sistemas, ges
 | Curso Completo de Power BI: Análisis de Datos Profesional | Udemy | ago. 2025 | [Ver credencial](https://www.udemy.com/certificate/UC-38a12612-79e5-4853-a80b-ca78840620de/) |
 | Fundamentos de la programación: Pruebas de software y QA | LinkedIn Learning | ene. 2025 | [Ver credencial](https://www.linkedin.com/learning/certificates/d198605f4c56709e76e32293e389400f9e6d86c5cc4e8c602cb1b81632173db0/) |
 | Python Essentials 2 | Cisco | mar. 2024 | [Ver credencial](https://www.credly.com/badges/30da1667-3992-476e-9455-95da9ae74b84) |
-| Cybersecurity Essentials | Cisco | abr. 2022 | Disponible en [LinkedIn](https://www.linkedin.com/in/bernarditalm/details/certifications/) |
+| Cybersecurity Essentials | Cisco | abr. 2022 | [Ver credencial](https://www.credly.com/badges/68ad96d8-a9ad-4f4f-8a1c-1272f966ec60) |
 
 ---
 
